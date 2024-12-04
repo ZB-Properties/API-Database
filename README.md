@@ -1,4 +1,4 @@
-# API and SQL database implementation
+# API Documentation
 
 This API endpoints is constructed to assist with efficient data processing, integration of functional services and user authentication. It is designed to help construe the proper functionality of a website.
 
